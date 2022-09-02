@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod --u=hello olleh
+chmod -R 354 olleh
